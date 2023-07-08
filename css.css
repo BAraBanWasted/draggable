@@ -1,0 +1,44 @@
+#area{
+    width: 350px;
+    height: 600px;
+    border: 2px solid;
+    position: absolute;
+    top: 200px;
+}
+#area2{
+    width: 350px;
+    height: 600px;
+    border: 2px solid;
+    position: absolute;
+    top: 200px;
+    left: 450px;
+}
+
+.block{
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+}
+
+#block{
+    background: url(ogur.png) no-repeat;
+    background-size: contain;
+}
+#block-2{
+    background: url(ogur.png) no-repeat;
+    background-size: contain;   
+}
+
+#block-3{
+    background: url(1.jpg) no-repeat;
+    background-size: contain;
+}
+
+#block-4{
+    background: url(1.jpg) no-repeat;
+    background-size: contain;
+}
+#block-5{
+    background: url(1.jpg) no-repeat;
+    background-size: contain;
+}
